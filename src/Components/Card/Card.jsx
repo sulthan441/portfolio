@@ -20,7 +20,7 @@ const Card = (props) => {
 				backgroundColor: `${newTheme.highlightBackground}`,
 			}}
 		>
-			<div className={styles.image}>
+			<div className={styles.image}>	
 				<img src={img} alt='project' />
 				<div className={styles.colorDiv} />
 			</div>
