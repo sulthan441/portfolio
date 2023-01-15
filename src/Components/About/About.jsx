@@ -28,13 +28,17 @@ const About = () => {
         </h1>
         <div className={styles.borderBottom} />
         <p style={{ color: `${newTheme.para}` }} className={styles.aboutMe}>
-          I am a Full stack web developer. I have made some projects using HTML,
-          CSS, Javascript, React, Node.js, Mongodb and Express.
-          <br />
-          <br />I am passionate about solving real-world problems in the field
-          of web development and software engineering. Eager to be a part of a
-          team which gives me ability to learn and grow .
-        </p>
+          I am a Full Stack Web Developer with hands-on experience on both front-end
+           and back-end technologies(MERN).
+            I have developed 
+          various projects by utilizing HTML, CSS, Javascript, React js , Redux, Express js, Node js, Mongo DB.
+          <br /><br />
+          I possess a proven ability to collaborate effectively with my peers.
+          I have a strong work ethic and enjoy working closely with my team members
+          to effectively manage workloads and take on additional responsibilities as needed.
+          My passion for both personal growth and software development led me to attend
+          a 500+ hour coding bootcamp to expand my knowledge of new technologies.
+        </p>  
       </div>
     </div>
   );

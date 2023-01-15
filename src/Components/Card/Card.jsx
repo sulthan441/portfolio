@@ -5,7 +5,7 @@ import styles from './Card.module.css';
 
 const Card = (props) => {
 	const { newTheme } = React.useContext(ThemeContext);
-	const { img, des, title, live, gitHub, technologies,demo } = props;
+	const { img, des, title, live, gitHub, technologies, demo } = props;
 	// console.log(demo,"demo in cards")
 	const [width] = WindowSize();
 	return (
@@ -20,7 +20,7 @@ const Card = (props) => {
 				backgroundColor: `${newTheme.highlightBackground}`,
 			}}
 		>
-			<div className={styles.image}>	
+			<div className={styles.image}>
 				<img src={img} alt='project' />
 				<div className={styles.colorDiv} />
 			</div>
@@ -64,10 +64,6 @@ const Card = (props) => {
 					</a>
 					<a href={live} rel='noopener noreferrer' target='_blank'>
 						<i className='fas fa-external-link-alt' />
-					</a>
-					<a href={demo} rel='noopener noreferrer' target='_blank'>
-					<i class="fas fa-play"></i>
-					
 					</a>
 				</div>
 			</div>

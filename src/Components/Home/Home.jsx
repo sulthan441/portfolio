@@ -60,6 +60,7 @@ const Home = ({ scrollRef }) => {
 					<h1>
 						<span>Hi, My name is</span>
 						<div
+						
 							className={styles.name}
 							style={{ color: `${newTheme.title}` }}
 						>
@@ -84,12 +85,12 @@ const Home = ({ scrollRef }) => {
 						<p style={{fontSize:"85%"}}>I build things on Internet</p> */}
 					</h1>
 					<div className={styles.btn}>
-						<a href='https://drive.google.com/file/d/1claR0x2sctoAcN-gEI571Kar8Q2faDR8/view?usp=sharing' target="_blank" rel="noreferrer">   
+						<a href='https://drive.google.com/file/d/1o0_ZUy7z2HHKjIiWTukYICE0vBVNmCx0/view?usp=sharing' target="_blank" rel="noreferrer">   
                         {/*  add resume here*/}
 							<Button
 								text={
 									<span className={styles.resumeBtn}>
-										<span>See my Resume 😇   </span>{' '}
+										<span>Examine my Resume 📜   </span>{' '}
 										{/* <i className='fas fa-file-download'></i> */}
 										<i class="fas fa-download"></i>
 									</span>
@@ -103,7 +104,7 @@ const Home = ({ scrollRef }) => {
 
 						</a>
 					</div>
-					<h2 style={{marginTop:"60px"}}>Programming is an art where mind paints the logic on the Computer.... -Donald Knuth</h2>
+					<h2 style={{marginTop:"60px"}}>Life  always  begins  with  one step  outside  of  your  comfort  zone. — Shannon L. Alder</h2>
 				</div>
 			</div>
 
@@ -164,7 +165,7 @@ const Home = ({ scrollRef }) => {
 					handleButton={handleShowMoreBtn}
 				/> */}
 			</div>
-
+			<p><img height={"200px"} width={"80%"} align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulthan441&" alt="sulthan441" /></p>
 			<div
 				style={{
 					background: `${newTheme.highlightBackground}`,

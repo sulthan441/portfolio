@@ -51,7 +51,7 @@ const Navbar = () => {
 			<div className={styles.navbar}>
 
 
-			<a href="https://mohammedsulthan-fullstackwebdeveloper.netlify.app/">
+			<a href="#">
 					<div className={styles.logo}>
 						<img 
 							src='https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX35018236.jpg'

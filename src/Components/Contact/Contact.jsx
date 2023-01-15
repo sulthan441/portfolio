@@ -9,17 +9,22 @@ const Contact = () => {
       <div className={styles.container}>
         <h1 style={{ color: `${newTheme.title}` }}>Get in Touch</h1>
         <p style={{ color: `${newTheme.para}` }} className={styles.paragraph}>
-          One of my favourite things about developing web applications is the
-          variety in projects. So if you want to collaborate or have some work
-          for me , Get in touch and tell me what you have in mind. — I can’t
-          wait to hear all about it! 😇
-          <br />
-          Gmail:mohammedsulthan441@gmail.com
-        </p>
+        I am a highly motivated web developer with a passion for
+         creating innovative and engaging web applications. One
+          of my favorite aspects of this field is the diverse
+           range of projects and the opportunity to continually
+            learn and grow. If you are seeking a collaborative 
+            and dedicated developer for your next project, please 
+            do not hesitate to contact me at <br /><br /> <b> Gmail : mohammedsulthan441@gmail.com . </b> 
+
+        </p> <br />
+       
         <div
           style={{ color: `${newTheme.title}` }}
           className={styles.contactOptions}
+
         >
+
           <a
             href="tel:6300537467"
             aria-label="GitHub"
@@ -65,7 +70,7 @@ const Contact = () => {
       </div>
       <div style={{ background: `${newTheme.line}` }} className={styles.line} />
       <div style={{ color: `${newTheme.para}` }} className={styles.copyright}>
-        Designed and build by Mohammed Sulthan, 2022 All rights reserved.
+        © 2022
       </div>
     </footer>
   );

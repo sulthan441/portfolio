@@ -32,7 +32,7 @@ body::after {
 	color: #8993b1;
 	padding-left: 10vw;
 	transition: 0.5s;
-	font-size: clamp(10px, 2vw, 15px);
+	font-size: clamp(15px, 2vw, 10px);
 	/* position: fixed; */
 }
 

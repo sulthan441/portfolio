@@ -1,3 +1,9 @@
+*{
+	font-family: 'Karantina', cursive;
+font-family: 'Philosopher', sans-serif;
+/* font-family: 'Source Sans Pro', sans-serif; */
+/* font-family: 'Trochut', cursive; */
+}
 .logoStart {
 	width: 100vw;
 	height: 100vh;

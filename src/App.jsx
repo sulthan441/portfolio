@@ -64,6 +64,7 @@ function App() {
 					</div>
 					<Navbar />
 					<Home scrollRef={scrollRef} />
+					
 				</div>
 			)}
 		</>
