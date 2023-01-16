@@ -165,7 +165,7 @@ const Home = ({ scrollRef }) => {
 					handleButton={handleShowMoreBtn}
 				/> */}
 			</div>
-			<p><img height={"200px"} width={"80%"} align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulthan441&" alt="sulthan441" /></p>
+			{/* <p><img height={"200px"} width={"80%"} align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulthan441&" alt="sulthan441" /></p> */}
 			<div
 				style={{
 					background: `${newTheme.highlightBackground}`,
