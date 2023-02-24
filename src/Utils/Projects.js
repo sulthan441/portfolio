@@ -47,6 +47,25 @@ export const projects = [
       "HTML",
       'Bootstrap'
     ],
+  },
+  {
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/Screenshot%20(337).png",
+    title: "Todo App",
+    des: "This to-do list app is a digital tool that helps users organize and manage their tasks and to-do lists. It typically allows users to create, edit, and delete tasks",
+    demo: "#",
+    live: "https://mellow-gumption-4caaff.netlify.app/home_page/homepagehtml/homepage",
+    gitHub: "https://github.com/sulthan441/team_BestBuy",
+    technologies: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node js",
+      
+      "MongoDb",
+      "Express js",
+    
+    ],
   }
   // {
   //   img: "https://github.com/sulthan441/portfolio/blob/main/src/Components/projectImagesForPortfolio/myntra-homepage.png",
