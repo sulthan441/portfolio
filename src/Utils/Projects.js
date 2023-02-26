@@ -35,6 +35,38 @@ export const projects = [
     ],
   },
   {
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/todo-Mern.png",
+    title: "Todo App",
+    des: "This to-do list app is a digital tool that helps users organize and manage their tasks and to-do lists. It typically allows users to create, edit, and delete tasks",
+    demo: "https://mern-todo-mds.netlify.app/",
+    gitHub: "https://github.com/sulthan441/MERNTodo",
+    technologies: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node js",
+      "MongoDb",
+      "Express js",
+    
+    ],
+  },
+
+  {
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/ProjectImages/Screenshot%20(343).png",
+    title: "Codepen-clone",
+    des: "This Code-pen clone will offer developers a platform to showcase their skills and connect with others in the community while also providing a convenient and user-friendly way to create and share their front-end projects.",
+    live: "https://codpen-clone-mds.netlify.app/",
+    gitHub: "https://github.com/sulthan441/CodePen-Clone",
+    technologies: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Material UI",
+    ],
+  },
+  {
     img: "https://github.com/sulthan441/projectImagesForPortfolio/blob/main/best-buy%20homepage.png?raw=true",
     title: "BestBuy (Clone)",
     des: "Best Buy is a e-commerce website ,which provide consumer electronics retailer with operations in the U.S., Mexico, and Canada. At its brick-and-mortar locations and online, the company sells a wide variety of items, including mobile phones, digital cameras, video games, and music, as well as home appliances like washing machines and refrigerators.",
@@ -49,24 +81,37 @@ export const projects = [
     ],
   },
   {
-    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/Screenshot%20(337).png",
-    title: "Todo App",
-    des: "This to-do list app is a digital tool that helps users organize and manage their tasks and to-do lists. It typically allows users to create, edit, and delete tasks",
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/tic-tac-toe.png",
+    title: "Tic Tac Toe",
+    des: "Tic Tac Toe is a two-player game played on a 3x3 grid board. The players take turns placing their symbol (usually X and O) on an empty square, with the goal of getting three of their symbols in a row, either horizontally, vertically, or diagonally. The game ends when one player achieves the objective, or when all the squares are filled without a winner, resulting in a draw.",
     demo: "#",
-    live: "https://mellow-gumption-4caaff.netlify.app/home_page/homepagehtml/homepage",
-    gitHub: "https://github.com/sulthan441/team_BestBuy",
+    live: "https://tic-tac-toe-game-mds.netlify.app/",
+    gitHub: "https://github.com/sulthan441/Tic-Tac-Toe",
     technologies: [
-      "HTML",
-      "CSS",
       "JavaScript",
-      "React",
-      "Node js",
-      
-      "MongoDb",
-      "Express js",
-    
+      "CSS",
+      "HTML"
     ],
   }
+  // {
+  //   img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/Screenshot%20(337).png",
+  //   title: "Todo App",
+  //   des: "This to-do list app is a digital tool that helps users organize and manage their tasks and to-do lists. It typically allows users to create, edit, and delete tasks",
+  //   demo: "#",
+  //   live: "https://mellow-gumption-4caaff.netlify.app/home_page/homepagehtml/homepage",
+  //   gitHub: "https://github.com/sulthan441/team_BestBuy",
+  //   technologies: [
+  //     "HTML",
+  //     "CSS",
+  //     "JavaScript",
+  //     "React",
+  //     "Node js",
+      
+  //     "MongoDb",
+  //     "Express js",
+    
+  //   ],
+  // }
   // {
   //   img: "https://github.com/sulthan441/portfolio/blob/main/src/Components/projectImagesForPortfolio/myntra-homepage.png",
   //   title: "Myntra (Clone)",
