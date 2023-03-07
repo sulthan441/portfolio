@@ -1,7 +1,7 @@
 export const projects = [
 
   {
-    img: "https://github.com/sulthan441/projectImagesForPortfolio/blob/main/ProjectImages/faballeyHomepage.png?raw=true",
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/ProjectImages/faballeyHomepage.png?token=GHSAT0AAAAAABXTPLUCHCUWBYE7SGLU5EKKZAG6QWQ",
     title: "Faballey (Clone)",
     des: "FabAlley is a bold, inclusive and fashion-forward western wear brand aimed at arming women with fashion that is an extension of them. Launched in 2012, FabAlley covers everything from the glitziest party dresses, relaxed vacation wear, trendy casual wear to statement accessories",
     demo: "#",
@@ -18,7 +18,7 @@ export const projects = [
     ],
   },
   {
-    img: "https://github.com/sulthan441/projectImagesForPortfolio/blob/main/Mahabiss%20homepage.png?raw=true",
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/Mahabiss%20homepage.png?token=GHSAT0AAAAAABXTPLUDMO6MEOFL3ITY2JKAZAG6PSQ",
     title: "Mahabis (Clone)",
     des: "mahabis, (stylised version vs Mahabis) is an e-commerce led, premium lifestyle brand founded in 2014, headquartered in London, with manufacturing in Europe and China..mahabis sells a range of slippers and accessories. Their curve slippers feature a natural rubber sole so that they can be used both indoors and outdoors ",
     demo: "#",
@@ -35,7 +35,7 @@ export const projects = [
     ],
   },
   {
-    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/todo-Mern.png",
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/todo-Mern.png?token=GHSAT0AAAAAABXTPLUDQ2764VJULX36YP44ZAG6OZQ",
     title: "Todo App",
     des: "This to-do list app is a digital tool that helps users organize and manage their tasks and to-do lists. It typically allows users to create, edit, and delete tasks",
     demo: "https://mern-todo-mds.netlify.app/",
@@ -53,7 +53,7 @@ export const projects = [
   },
 
   {
-    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/ProjectImages/Screenshot%20(343).png",
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/ProjectImages/Screenshot%20(343).png?token=GHSAT0AAAAAABXTPLUCMP64SNRGCGWBBPOOZAG6ROA",
     title: "Codepen-clone",
     des: "This Code-pen clone will offer developers a platform to showcase their skills and connect with others in the community while also providing a convenient and user-friendly way to create and share their front-end projects.",
     live: "https://codpen-clone-mds.netlify.app/",
@@ -67,7 +67,7 @@ export const projects = [
     ],
   },
   {
-    img: "https://github.com/sulthan441/projectImagesForPortfolio/blob/main/best-buy%20homepage.png?raw=true",
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/best-buy%20homepage.png?token=GHSAT0AAAAAABXTPLUD62ZJBI4F2ZUL5SLOZAG6QEQ",
     title: "BestBuy (Clone)",
     des: "Best Buy is a e-commerce website ,which provide consumer electronics retailer with operations in the U.S., Mexico, and Canada. At its brick-and-mortar locations and online, the company sells a wide variety of items, including mobile phones, digital cameras, video games, and music, as well as home appliances like washing machines and refrigerators.",
     demo: "#",
@@ -81,7 +81,7 @@ export const projects = [
     ],
   },
   {
-    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/tic-tac-toe.png",
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/tic-tac-toe.png?token=GHSAT0AAAAAABXTPLUD3BP7ANV26WFOAZTMZAG6N7A",
     title: "Tic Tac Toe",
     des: "Tic Tac Toe is a two-player game played on a 3x3 grid board. The players take turns placing their symbol (usually X and O) on an empty square, with the goal of getting three of their symbols in a row, either horizontally, vertically, or diagonally. The game ends when one player achieves the objective, or when all the squares are filled without a winner, resulting in a draw.",
     demo: "#",
