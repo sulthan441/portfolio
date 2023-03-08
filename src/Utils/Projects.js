@@ -67,7 +67,7 @@ export const projects = [
     ],
   },
   {
-    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/best-buy%20homepage.png?token=GHSAT0AAAAAABXTPLUD62ZJBI4F2ZUL5SLOZAG6QEQ",
+    img: "https://raw.githubusercontent.com/sulthan441/projectImagesForPortfolio/main/best-buy%20homepage.png",
     title: "BestBuy (Clone)",
     des: "Best Buy is a e-commerce website ,which provide consumer electronics retailer with operations in the U.S., Mexico, and Canada. At its brick-and-mortar locations and online, the company sells a wide variety of items, including mobile phones, digital cameras, video games, and music, as well as home appliances like washing machines and refrigerators.",
     demo: "#",
